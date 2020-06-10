@@ -1,0 +1,7 @@
+D:\Project\orchidUs\public\img
+D:\Project\orchidUs\resources\views\includes
+D:\Project\orchidUs\resources\views\layout
+D:\Project\orchidUs\resources\views\pages
+D:\Project\orchidUs\resources\views\forgetpassword
+D:\Project\orchidUs\resources\views\loginpage
+D:\Project\orchidUs\routes\web.php
